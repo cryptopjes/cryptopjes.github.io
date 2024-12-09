@@ -10,11 +10,11 @@ let btn2 = document.getElementById("btn2");
 let btn3 = document.getElementById("btn3");
 
 btn1.addEventListener("click", function(){
-    window.open("", "_blank");
+    window.open("https://t.me/cryptopjeslink/2", "_blank");
 });
 
 btn2.addEventListener("click", function(){
-    window.open("https://t.me/theontonbot/event?startapp=1a1a36df-b78e-41e5-a35b-9b4c81a8df36", "_blank");
+    window.open("", "_blank");
 });
 
 btn3.addEventListener("click", function(){
