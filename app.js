@@ -14,11 +14,11 @@ btn1.addEventListener("click", function(){
 });
 
 btn2.addEventListener("click", function(){
-    window.open("", "_blank");
+    window.open("https://t.me/cryptopjeslink/2", "_blank");
 });
 
 btn3.addEventListener("click", function(){
-    window.open("", "_blank");
+    window.open("https://split.tg/?ref=UQDpQ2E8wCsG6OVq_5B3VmCkdD8gRrj124vh-5rh3aKUfGlW", "_blank");
 });
 
 let usercard = document.getElementById("usercard");
